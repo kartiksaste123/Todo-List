@@ -19,5 +19,5 @@ A simple command-line **To-Do List Manager** built with Python and MySQL. This a
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/kartiksaste123/Todo-List
 cd todo-app
