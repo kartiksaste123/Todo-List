@@ -9,14 +9,6 @@ A simple command-line **To-Do List Manager** built with Python and MySQL. This a
 - 🗑 Delete tasks  
 - 🛠 Simple CLI interface  
 
-## 📂 Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Database Schema](#database-schema)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## 🛠 Installation
